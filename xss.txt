@@ -1,8 +1,1 @@
-<noscript><p title="</noscript><img src=x onerror=alert(document.domain)>">
 
-psycology of money
-atomic habits
-
-
-bodyparser,cors,jsonwebtoken,express,morgan dotenv,express-jwt, express-validator, mongoose,google-auth-library,
-@sendgrid/mail
